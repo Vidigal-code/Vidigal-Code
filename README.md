@@ -37,13 +37,13 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidigal-code&layout=compact&theme=dark&text_color=2aa889&title_color=2aa889&bg_color=000000" alt="Vidigal-code"/>
 
 <p align="center">
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
+ <img src = "https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" width = 400>
 </p>
 </div>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidigal-code&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" />
 </p>
 
 
