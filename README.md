@@ -35,6 +35,7 @@
 <div align="center">
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" alt="Vidigal-code"/>  
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" alt="Vidigal-code"/>
+</div>
 
 <p align="center">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
@@ -115,7 +116,6 @@
    <img alt="Vidigal-pic" height="200" width="250" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
 </div>
 
- ![Snake animation](https://github.com/Vidigal-code/Vidigal-code/blob/output/github-contribution-grid-snake.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors)](https://git.io/typing-svg)
 
