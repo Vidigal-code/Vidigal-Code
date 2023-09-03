@@ -33,8 +33,8 @@
 <br/>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" alt="Vidigal-code"/>  
-<img width="41%" height="195px" src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" alt="Vidigal-code"/>
+<img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" alt="Vidigal-code"/>  
+<img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" alt="Vidigal-code"/>
 
 <p align="center">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
