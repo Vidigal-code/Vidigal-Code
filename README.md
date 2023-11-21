@@ -16,7 +16,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
 
-<h2 align="left">Kauan Vidigal ✅</h2>
+<h2 align="center">Kauan Vidigal ✅</h2>
 <br/>
 <br/>
 
@@ -65,7 +65,6 @@
 <a href="mailto:kauanvidigalcontato@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2630/2630483.png" alt="vidigal-code" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kauan-vidigal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2630/2630663.png" alt="vidigal-code" height="30" width="40" /></a>
 </p>
- <h2 align="center"></h2>  
  <br/>
 
 <h2 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h2>
