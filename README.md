@@ -1,6 +1,6 @@
 <p align="center">
   <a href="YOUR_LINK_HERE">
-    <img width="100%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+    <img width="80%" height="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
   </a>
 </p>
 
