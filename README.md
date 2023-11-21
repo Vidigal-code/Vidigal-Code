@@ -26,14 +26,12 @@
 
 <h2 align="center">Kauan Vidigal ✅</h2>
 
-<p align="left">
-    <b> - 😎 Follow for more future projects.</b>
-</p>
-<p align="left">
-  <b>- 📚💼 Studying Hard to Be a Complete Full-Stack Developer.</b>
-</p>
-<p align="left">
-  <b>- ☕ Love Java!</b>
+<br/>
+
+- 😎 Follow for more future projects.
+- 📚💼 Studying Hard to Be a Complete Full-Stack Developer
+- ☕ Love Java!
+
 <br/>
 
 - >``📲Link to my portfolio`` : [Portfolio](https://not-available-yet)
