@@ -16,7 +16,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
 
-<h2 align="center">Kauan Vidigal ✅</h2>
+<h2 align="left">Kauan Vidigal ✅</h2>
 <br/>
 <br/>
 
