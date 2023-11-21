@@ -27,22 +27,22 @@
 <h2 align="center">Kauan Vidigal ✅</h2>
 
 <p align="left">
-    <b>😎 Follow for more future projects.</b>
+    <b> - 😎 Follow for more future projects.</b>
 </p>
 <p align="left">
-  <b>📚💼 Studying Hard to Be a Complete Full-Stack Developer.</b>
+  <b>- 📚💼 Studying Hard to Be a Complete Full-Stack Developer.</b>
 </p>
 <p align="left">
-  <b>☕ Love Java!</b>
+  <b>- ☕ Love Java!</b>
 <br/>
 
->``📲Link to my portfolio:``[Portfolio](https://not-available-yet)
->
->``💾Link to my projects:``[Projects](https://not-available-yet)
->
->``💪Certificates link:``[Certificates](https://not-available-yet)
->
->``👨🏻‍💻 Another account:``[Account](https://github.com/SoftVidigal)
+- >``📲Link to my portfolio`` : [Portfolio](https://not-available-yet)
+  >
+- >``💾Link to my projects`` : [Projects](https://not-available-yet)
+  >
+- >``💪Certificates link`` : [Certificates](https://not-available-yet)
+  >
+- >``👨🏻‍💻 Another account`` : [Account](https://github.com/SoftVidigal)
 </p>
 
 <br/>
