@@ -17,6 +17,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
 
+
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
 </p>
@@ -26,16 +27,14 @@
 <h2 align="center">Kauan Vidigal ✅</h2>
 
 <p align="left">
-  <b>☕ Love Java!</b>
+    <b>😎 Follow for more future projects.</b>
 </p>
 <p align="left">
   <b>📚💼 Studying Hard to Be a Complete Full-Stack Developer.</b>
 </p>
 <p align="left">
-  <b>😎 Follow for more future projects.</b>
-</p>
+  <b>☕ Love Java!</b>
 <br/>
-
 
 >``📲Link to my portfolio:``[Portfolio](https://not-available-yet)
 >
@@ -44,6 +43,12 @@
 >``💪Certificates link:``[Certificates](https://not-available-yet)
 >
 >``👨🏻‍💻 Another account:``[Account](https://github.com/SoftVidigal)
+</p>
+
+<br/>
+
+
+
 
  <br/>
   
