@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
@@ -17,14 +16,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
 
-
-
-
-<br/>
-
 <h2 align="center">Kauan Vidigal ✅</h2>
 
-<br/>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" height="320" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
