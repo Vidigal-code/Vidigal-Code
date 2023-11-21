@@ -12,6 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;Have+20+years%20old;I+live+in+São%20Paulo/Brazil;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
@@ -19,6 +20,8 @@
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
 </p>
+
+<br/>
 
 <h2 align="center">Kauan Vidigal ✅</h2>
 
