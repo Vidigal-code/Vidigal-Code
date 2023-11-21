@@ -45,10 +45,7 @@
 >
 >``👨🏻‍💻 Another account:``[Account](https://github.com/SoftVidigal)
 
- 
-  <br/>
-  <br/>
-  <br/>
+ <br/>
   
  <div align="center">
  <a href="mailto:kauanvidigalcontato@gmail.com">
@@ -62,8 +59,7 @@
 <h3 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h3>
 
 <br/>
-<br/>
- 
+
 <div align="center">
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" alt="Vidigal-code"/>  
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" alt="Vidigal-code"/>
