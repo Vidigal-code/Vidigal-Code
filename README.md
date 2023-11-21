@@ -18,15 +18,17 @@
 </p>
 
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
-</p>
+
 
 <br/>
 
 <h2 align="center">Kauan Vidigal ✅</h2>
 
 <br/>
+
+<p align="right">
+  <img align="right" alt="Coding" width="400" height="350" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
+</p>
 
 <p align="left">
   <b>
@@ -48,6 +50,7 @@
 </p>
 
 
+
 <br/>
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://not-available-yet) }
@@ -65,13 +68,15 @@
 
 
  <br/>
+ <br/>
+ <br/>
   
  <div align="center">
  <a href="mailto:kauanvidigalcontato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2aa889" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/kauan-vidigal/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=2aa889" />
+   <a href="https://www.linkedin.com/in/kauan-vidigal/" target="_blank">
+    <img  src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=2aa889" />
   </a>
  </div>
 
