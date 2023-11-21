@@ -28,19 +28,35 @@
 
 <br/>
 
-- 😎 Follow for more future projects.
-- 📚💼 Studying Hard to Be a Complete Full-Stack Developer
-- ☕ Love Java!
+<p align="left">
+  <b>
+    ☕ Love Java! 
+  </b>
+</p>
+
+
+<p align="left">
+  <b>
+    📚💼 Studying Hard to Be a Complete Full-Stack Developer
+  </b>
+</p>
+
+<p align="left">
+  <b>
+    😎 Follow for more future projects.
+  </b>
+</p>
+
 
 <br/>
 
-- >``📲Link to my portfolio`` : [Portfolio](https://not-available-yet)
+- >``📲Link to my portfolio`` : { [Portfolio](https://not-available-yet) }
   >
-- >``💾Link to my projects`` : [Projects](https://not-available-yet)
+- >``💾Link to my projects`` : { [Projects](https://not-available-yet) }
   >
-- >``💪Certificates link`` : [Certificates](https://not-available-yet)
+- >``💪Certificates link`` : { [Certificates](https://not-available-yet) }
   >
-- >``👨🏻‍💻 Another account`` : [Account](https://github.com/SoftVidigal)
+- >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
 </p>
 
 <br/>
