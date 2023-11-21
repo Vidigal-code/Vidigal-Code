@@ -1,6 +1,6 @@
 <p align="center">
   <a href="YOUR_LINK_HERE">
-    <img width="100%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+    <img width="60%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
   </a>
 </p>
 
