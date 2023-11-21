@@ -1,14 +1,35 @@
+<p align="center">
+  <a href="YOUR_LINK_HERE">
+    <img width="100%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+  </a>
+</p>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;Have+20+years%20old;I+live+in+São%20Paulo/Brazil;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
+</p>
 
-## Kauan Vidigal✅
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
+</p>
 
-- ☕ Love Java! 
-- 📚💼 Studying Hard to Be a Complete Full-Stack Developer.
-- 😎  Follow for more future projects.
+<h2 align="center">Kauan Vidigal ✅</h2>
+
+<p align="left">
+  <b>☕ Love Java!</b>
+</p>
+<p align="left">
+  <b>📚💼 Studying Hard to Be a Complete Full-Stack Developer.</b>
+</p>
+<p align="left">
+  <b>😎 Follow for more future projects.</b>
+</p>
+<br/>
+
 
 >``📲Link to my portfolio:``[Portfolio](https://not-available-yet)
 >
@@ -17,8 +38,12 @@
 >``💪Certificates link:``[Certificates](https://not-available-yet)
 >
 >``👨🏻‍💻 Another account:``[Account](https://github.com/SoftVidigal)
- <br/>
+
  
+  <br/>
+  <br/>
+  <br/>
+  
  <div align="center">
  <a href="mailto:kauanvidigalcontato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2aa889" target="_blank">
@@ -31,23 +56,27 @@
 <h3 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h3>
 
 <br/>
-
+<br/>
+ 
 <div align="center">
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/overview.svg" alt="Vidigal-code"/>  
 <img  src="https://github.com/Vidigal-code/github-stats/blob/master/generated/languages.svg" alt="Vidigal-code"/>
 </div>
+
+ <br/>
 
 <p align="center">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
 </p>
 </div>
 
-
+ <br/>
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidigal-code&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+ <br/>
 
 
 # Skills:
@@ -112,9 +141,7 @@
 
 
 ## 
-  <div align="center">  
-   <img alt="Vidigal-pic" height="200" width="250" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
-</div>
+  
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors)](https://git.io/typing-svg)
