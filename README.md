@@ -70,14 +70,12 @@
  <br/>
  <br/>
   
- <div align="center">
- <a href="mailto:kauanvidigalcontato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2aa889" target="_blank">
-  </a>
-   <a href="https://www.linkedin.com/in/kauan-vidigal/" target="_blank">
-    <img  src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=2aa889" />
-  </a>
- </div>
+<p align="center">
+<a href="mailto:kauanvidigalcontato@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2630/2630483.png" alt="vidigal-code" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kauan-vidigal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2630/2630663.png" alt="vidigal-code" height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h3>
 
