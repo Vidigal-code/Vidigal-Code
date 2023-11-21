@@ -1,9 +1,12 @@
+<br/>
+
 <p align="center">
   <a href="YOUR_LINK_HERE">
     <img width="70%" height="350" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
   </a>
 </p>
 
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
