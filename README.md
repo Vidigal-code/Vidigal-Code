@@ -68,8 +68,7 @@
  <h2 align="center"></h2>  
  <br/>
 
-<h3 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h3>
-<h2 align="center"></h2>  
+<h2 align="center"> 👨‍💻 Full-Stack Developer 👨‍💻 </h2>
 
 <br/>
 
