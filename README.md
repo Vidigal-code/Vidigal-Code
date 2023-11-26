@@ -117,8 +117,8 @@
     <a href="https://www.postgresql.org" target="_blank"><img align="center" alt="Vidigal-POSTRESQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Remote%20Desktop%3A)](https://git.io/typing-svg)
-<a href="https://anydesk.com/pt" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/16462/anydesk.jpg"></a>
-  <a href="https://www.teamviewer.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/team-viewer-3771431-3149851.png"></a>
+<a href="https://anydesk.com/pt" target="_blank"><img align="center" alt="Vidigal-Anydesk" height="50" width="50" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/16462/anydesk.jpg"></a>
+  <a href="https://www.teamviewer.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-TeamViewer" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/team-viewer-3771431-3149851.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Cloud%3A)](https://git.io/typing-svg)
 <a href="https://aws.amazon.com/pt/free/" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
