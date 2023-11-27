@@ -97,7 +97,7 @@
 <a href="https://www.javascript.com" target="_blank"><img align="center" id="JS" alt="Vidigal-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
   <a href="https://www.typescriptlang.org" target="_blank"><img align="center" alt="Vidigal-TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Vidigal-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-  <a href="https://www.php.net" target="_blank"><img align="center" alt="Vidigal-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+  <a href="https://www.php.net" target="_blank"><img align="center" alt="Vidigal-PHP" height="50" width="50" src="https://www.php.net/favicon.ico?v=2"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Frontend+Development%3A)](https://git.io/typing-svg)
 <a href="https://reactjs.org" target="_blank"><img align="center" alt="Vidigal-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
