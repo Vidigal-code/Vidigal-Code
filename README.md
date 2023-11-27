@@ -100,11 +100,15 @@
   <a href="https://www.php.net" target="_blank"><img align="center" alt="Vidigal-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Frontend+Development%3A)](https://git.io/typing-svg)
-<a href="https://pt-br.reactjs.org" target="_blank"><img align="center" alt="Vidigal-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://pt.wikipedia.org/wiki/HTML" target="_blank"><img align="center" alt="Vidigal-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank"><img align="center" alt="Vidigal-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Vidigal-BootsTrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
-  <a href="https://sass-lang.com" target="_blank"><img align="center" alt="Vidigal-SASS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
+<a href="https://reactjs.org" target="_blank"><img align="center" alt="Vidigal-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vidigal-Vue" height="50" width="50" src="https://br.vuejs.org/images/icons/apple-icon-57x57.png"></a>
+    <a href="https://pt.wikipedia.org/wiki/HTML" target="_blank"><img align="center" alt="Vidigal-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+ <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank"><img align="center" alt="Vidigal-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Vidigal-BootsTrap" height="50" width="50" src="https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"></a>
+   <a href="https://styled-components.com/" target="_blank"><img align="center" alt="Vidigal-Styled" height="50" width="50" src="https://styled-components.com/favicon.png"></a>
+   <a href="https://sass-lang.com" target="_blank"><img align="center" alt="Vidigal-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Vidigal-Tailwind" height="50" width="50" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3"></a>
+   
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Backend+Development%3A)](https://git.io/typing-svg)
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
