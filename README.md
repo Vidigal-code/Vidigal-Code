@@ -135,6 +135,10 @@
   <a href="https://cloud.google.com" target="_blank"><img align="center" alt="Vidigal-GoogleCloud" height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
     <a href="https://azure.microsoft.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://th.bing.com/th/id/R.07ca8cd025969f66c65611df5aabcf43?rik=E0aGesKhIOc3mg&pid=ImgRaw&r=0"></a>
 #
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
+<a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://contabo.com/assets/favicon.png"></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img align="center" alt="Vidigal-Cloudflare" height="50" width="50" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/53qCYhQbir5WtIU0VDWESo/954a48bfb17f429acf469e5f14345d83/unnamed-3.png"></a>
+#
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Framework%3A)](https://git.io/typing-svg)
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
   <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
