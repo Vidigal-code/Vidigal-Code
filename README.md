@@ -180,8 +180,8 @@
                    <a href="https://github.com/Vidigal-code" target="_blank"><img align="center" alt="Vidigal-Git-hub" height="50" width="50" src="https://github.com/fluidicon.png"></a>
   ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Other%3A)](https://git.io/typing-svg)
 
-  <a href="https://www.linux.org/pages/download/" target="_blank"><img align="center" alt="Vidigal-LINUX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-
+  <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
+  <a href="https://www.navicat.com/en" target="_blank"><img align="center" alt="Vidigal-Navicat" height="50" width="50" src="https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico"></a>
   
   </div>
 
