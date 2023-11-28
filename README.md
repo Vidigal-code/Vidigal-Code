@@ -113,12 +113,18 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Backend+Development%3A)](https://git.io/typing-svg)
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://www.nginx.com" target="_blank"><img align="center" alt="Vidigal-NGINX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
-  <a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-WINDOWSISS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png"></a>
+  <a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-ISS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png"></a>
+    <a href="https://apache.org/" target="_blank"><img align="center" alt="Vidigal-Apache" height="50" width="50" src="https://apache.org/favicons/apple-touch-icon-57x57.png"></a>
+        <a href="https://tomcat.apache.org/" target="_blank"><img align="center" alt="Vidigal-tomcat-apache" height="50" width="50" src="https://tomcat.apache.org/res/images/tomcat.png"></a>
+           <a href="https://www.apachefriends.org/download.html" target="_blank"><img align="center" alt="Vidigal-tomcat-apache" height="50" width="50" src="https://www.apachefriends.org/images/favicon-18f9bd42.png"></a>
+            <a href="https://wampserver.aviatechno.net/" target="_blank"><img align="center" alt="Vidigal-Wamp" height="50" width="50" src="https://wampserver.aviatechno.net/css/favicon.ico"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Database%3A)](https://git.io/typing-svg)
 <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Vidigal-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
   <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-br_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=CjwKCAjwvsqZBhAlEiwAqAHElXG1-Uv6dCvpM6kMz7DSUnVWFx9awiyNN7sfHCyHYnskHHr6am2ONxoCY78QAvD_BwE" target="_blank"><img align="center" alt="Vidigal-MONGODB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
     <a href="https://www.postgresql.org" target="_blank"><img align="center" alt="Vidigal-POSTRESQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+       <a href="https://mariadb.org/" target="_blank"><img align="center" alt="Vidigal-MariaSql" height="50" width="50" src="https://mariadb.org/wp-content/uploads/2019/02/cropped-mariadb_org_rgb_r_512-1-32x32.png"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Remote%20Desktop%3A)](https://git.io/typing-svg)
 <a href="https://anydesk.com/pt" target="_blank"><img align="center" alt="Vidigal-Anydesk" height="50" width="50" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/16462/anydesk.jpg"></a>
