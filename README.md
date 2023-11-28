@@ -168,7 +168,7 @@
       <a href="https://www.sublimetext.com/3" target="_blank"><img align="center" alt="Vidigal-SublimeText" height="50" width="50" src="https://www.sublimetext.com/favicon.ico"></a>
       <a href="https://eclipseide.org/" target="_blank"><img align="center" alt="Vidigal-Eclipse" height="50" width="50" src="https://eclipseide.org/favicon.ico"></a>
   #
-  #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Operating+System:%3A)](https://git.io/typing-svg)
+  #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Operating+System%3A)](https://git.io/typing-svg)
   <a href="https://www.linux.org/pages/download/" target="_blank"><img align="center" alt="Vidigal-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a> 
       <a href="https://ubuntu.com/download" target="_blank"><img align="center" alt="Vidigal-Ubuntu" height="50" width="50" src="https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png"></a>
       <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank"><img align="center" alt="Vidigal-Kali" height="50" width="50" src="https://www.kali.org/images/kali-logo.svg"></a>
