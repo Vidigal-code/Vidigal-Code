@@ -136,7 +136,6 @@
     <a href="https://azure.microsoft.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://th.bing.com/th/id/R.07ca8cd025969f66c65611df5aabcf43?rik=E0aGesKhIOc3mg&pid=ImgRaw&r=0"></a>
         <a href="https://www.oracle.com/br/cloud/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
 #
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
 <a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://contabo.com/assets/favicon.png"></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img align="center" alt="Vidigal-Cloudflare" height="50" width="50" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/53qCYhQbir5WtIU0VDWESo/954a48bfb17f429acf469e5f14345d83/unnamed-3.png"></a>
@@ -148,8 +147,6 @@
    <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
     <a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico"></a>
 #
-
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Framework%3A)](https://git.io/typing-svg)
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
   <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
@@ -165,13 +162,14 @@
 <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank"><img align="center" alt="Vidigal-SONYVEGAS" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/05/vegas_pro_logo_freelogovectors.net_.png"></a>
 <a href="https://www.techsmith.com/camtasia-upgrade.html?utm_source=google&utm_medium=cpc&utm_campaign=8086136312&utm_content=80842987822&utm_term=camtasia&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9nsmB5eWyLzAkvflex6tlVnfQaOkvvWIxxOzZvedP2NGq8a_C0OSWUaAkilEALw_wcB" target="_blank"><img align="center" alt="Vidigal-CAMTASIA" height="50" width="50" src="https://img.utdstc.com/icon/7b8/79e/7b879e1cb53d19b54976e1fbc88d77212e9e55935f092d2839e026a71a9360de:200"></a> 
   #  
-  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=IDE%3A)](https://git.io/typing-svg)
+  #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=IDE%3A)](https://git.io/typing-svg)
   <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Vidigal-VSCODE" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a> 
       <a href="https://www.jetbrains.com/pt-br/idea/download/" target="_blank"><img align="center" alt="Vidigal-INTELLIJ" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></a>
       <a href="https://www.sublimetext.com/3" target="_blank"><img align="center" alt="Vidigal-SublimeText" height="50" width="50" src="https://www.sublimetext.com/favicon.ico"></a>
       <a href="https://atom-editor.cc/" target="_blank"><img align="center" alt="Vidigal-Atom" height="50" width="50" src="https://atom-editor.cc/favicon.ico"></a>
       <a href="https://eclipseide.org/" target="_blank"><img align="center" alt="Vidigal-Eclipse" height="50" width="50" src="https://eclipseide.org/favicon.ico"></a>
-  #  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Operating+System:%3A)](https://git.io/typing-svg)
+  #
+  #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Operating+System:%3A)](https://git.io/typing-svg)
   <a href="https://www.linux.org/pages/download/" target="_blank"><img align="center" alt="Vidigal-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a> 
       <a href="https://ubuntu.com/download" target="_blank"><img align="center" alt="Vidigal-Ubuntu" height="50" width="50" src="https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png"></a>
       <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank"><img align="center" alt="Vidigal-Kali" height="50" width="50" src="https://www.kali.org/images/kali-logo.svg"></a>
