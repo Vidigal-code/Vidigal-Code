@@ -166,7 +166,6 @@
   <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Vidigal-VSCODE" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a> 
       <a href="https://www.jetbrains.com/pt-br/idea/download/" target="_blank"><img align="center" alt="Vidigal-INTELLIJ" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></a>
       <a href="https://www.sublimetext.com/3" target="_blank"><img align="center" alt="Vidigal-SublimeText" height="50" width="50" src="https://www.sublimetext.com/favicon.ico"></a>
-      <a href="https://atom-editor.cc/" target="_blank"><img align="center" alt="Vidigal-Atom" height="50" width="50" src="https://atom-editor.cc/favicon.ico"></a>
       <a href="https://eclipseide.org/" target="_blank"><img align="center" alt="Vidigal-Eclipse" height="50" width="50" src="https://eclipseide.org/favicon.ico"></a>
   #
   #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Operating+System:%3A)](https://git.io/typing-svg)
