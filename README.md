@@ -131,9 +131,10 @@
   <a href="https://www.teamviewer.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-TeamViewer" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/team-viewer-3771431-3149851.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Cloud%3A)](https://git.io/typing-svg)
-<a href="https://aws.amazon.com/pt/free/" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
+<a href="https://aws.amazon.com/pt/free/" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png"></a>
   <a href="https://cloud.google.com" target="_blank"><img align="center" alt="Vidigal-GoogleCloud" height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
     <a href="https://azure.microsoft.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://th.bing.com/th/id/R.07ca8cd025969f66c65611df5aabcf43?rik=E0aGesKhIOc3mg&pid=ImgRaw&r=0"></a>
+        <a href="https://www.oracle.com/br/cloud/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
 #
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
@@ -154,6 +155,8 @@
   <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
      <a href="https://spring.io" target="_blank"><img align="center" alt="Vidigal-SPRING" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
        <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png"></a>
+              <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
+                 <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Software%3A)](https://git.io/typing-svg)
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></a>
@@ -165,9 +168,16 @@
   ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=IDE%3A)](https://git.io/typing-svg)
   <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Vidigal-VSCODE" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a> 
       <a href="https://www.jetbrains.com/pt-br/idea/download/" target="_blank"><img align="center" alt="Vidigal-INTELLIJ" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></a>
+      <a href="https://www.sublimetext.com/3" target="_blank"><img align="center" alt="Vidigal-SublimeText" height="50" width="50" src="https://www.sublimetext.com/favicon.ico"></a>
+      <a href="https://atom-editor.cc/" target="_blank"><img align="center" alt="Vidigal-Atom" height="50" width="50" src="https://atom-editor.cc/favicon.ico"></a>
+      <a href="https://eclipseide.org/" target="_blank"><img align="center" alt="Vidigal-Eclipse" height="50" width="50" src="https://eclipseide.org/favicon.ico"></a>
   #
+  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Version+control:%3A)](https://git.io/typing-svg)
+<a href="https://git-scm.com/downloads" target="_blank"><img align="center" alt="Vidigal-Git" height="50" width="50" src="https://git-scm.com/favicon.ico"></a>
+          <a href="https://gitlab.com/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"></a>
+                   <a href="https://github.com/Vidigal-code" target="_blank"><img align="center" alt="Vidigal-Git-hub" height="50" width="50" src="https://github.com/fluidicon.png"></a>
   ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Other%3A)](https://git.io/typing-svg)
-  <a href="https://git-scm.com" target="_blank"><img align="center" alt="Vidigal-GIT" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+
   <a href="https://www.linux.org/pages/download/" target="_blank"><img align="center" alt="Vidigal-LINUX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 
   
