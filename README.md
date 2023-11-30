@@ -47,6 +47,10 @@
 
 
 <br/>
+<details>
+
+  <summary><b>:computer:Information</b></summary>
+  </br>
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://not-available-yet) }
   >
@@ -55,6 +59,8 @@
 - >``💪Certificates link`` : { [Certificates](https://not-available-yet) }
   >
 - >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
+  >
+</details>
 </p>
 
 <br/>
@@ -93,7 +99,8 @@
 
 
 # Skills:
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Programming+Languages%3A)](https://git.io/typing-svg)
+
+  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 <a href="https://www.javascript.com" target="_blank"><img align="center" id="JS" alt="Vidigal-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
   <a href="https://www.typescriptlang.org" target="_blank"><img align="center" alt="Vidigal-TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Vidigal-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
@@ -182,7 +189,6 @@
 
   <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
   <a href="https://www.navicat.com/en" target="_blank"><img align="center" alt="Vidigal-Navicat" height="50" width="50" src="https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico"></a>
-  
   </div>
 
 
@@ -190,6 +196,7 @@
 
 
 ## 
+
   
 
 
