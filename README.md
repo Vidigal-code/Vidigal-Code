@@ -52,7 +52,7 @@
   <summary><b>:computer:Information</b></summary>
   </br>
 
-- >``📲Link to my portfolio`` : { [Portfolio](https://not-available-yet) }
+- >``📲Link to my portfolio`` : { [Portfolio](https://react-portfolio-dxcqeqn59-kauan-vidigals-projects.vercel.app/) }
   >
 - >``💾Link to my projects`` : { [Projects](https://not-available-yet) }
   >
