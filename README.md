@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE">
+  <a href="https://react-portfolio-fgrw2st6j-kauan-vidigals-projects.vercel.app/">
     <img width="65%" height="350" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
   </a>
 </p>
@@ -52,7 +52,7 @@
   <summary><b>:computer:Information</b></summary>
   </br>
 
-- >``📲Link to my portfolio`` : { [Portfolio](https://react-portfolio-dxcqeqn59-kauan-vidigals-projects.vercel.app/) }
+- >``📲Link to my portfolio`` : { [Portfolio](https://react-portfolio-fgrw2st6j-kauan-vidigals-projects.vercel.app/) }
   >
 - >``💾Link to my projects`` : { [Projects](https://not-available-yet) }
   >
