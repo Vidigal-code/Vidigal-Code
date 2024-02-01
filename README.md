@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://vidigal-code.github.io/React-portfolio/">
-    <img width="380" height="320" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
+    <img width="340" height="320" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 
 <p align="right">
-  <img align="right" alt="Coding" width="380" height="320" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
+  <img align="right" alt="Coding" width="340" height="320" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
   <br/>
 </p>
 <br/>
