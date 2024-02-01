@@ -51,7 +51,7 @@
 
 
 <br/>
-
+<br/>
 <br/>
 <details>
 
@@ -70,8 +70,10 @@
 </p>
 
 <br/>
- <br/>
- 
+<br/>
+<br/>
+<br/>
+
 <h3 align="center">Contact :</h3>  
 <p align="center">
 <a href="mailto:kauanvidigalcontato@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2630/2630483.png" alt="vidigal-code" height="30" width="40" /></a>
