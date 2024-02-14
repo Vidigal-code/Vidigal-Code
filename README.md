@@ -168,14 +168,14 @@
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Framework%3A)](https://git.io/typing-svg)
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
-  <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
+  <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://laravel.com/img/favicon/apple-touch-icon.png"></a>
      <a href="https://spring.io" target="_blank"><img align="center" alt="Vidigal-SPRING" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
        <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png"></a>
               <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
                  <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Software%3A)](https://git.io/typing-svg)
-<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></a>
+<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"></a>
   <a href="https://asana.com/pt/apps/figma" target="_blank"><img align="center" alt="Vidigal-FIGMA" height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
    <a href="https://www.coreldraw.com/br/" target="_blank"><img align="center" alt="Vidigal-CORELDRAWX9" height="50" width="50" src="https://www.coreldraw.com/static/cdgs/product_content/product-icons/cdgs/cdgs2021-icon-250x250.png"></a>
 <a href="https://www.vegascreativesoftware.com/br/" target="_blank"><img align="center" alt="Vidigal-SONYVEGAS" height="50" width="50" src="https://www.vegascreativesoftware.com/fileadmin/fe/icons/live/favicon.svg"></a>
