@@ -153,7 +153,7 @@
 <a href="https://aws.amazon.com/pt/free/" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png"></a>
   <a href="https://cloud.google.com" target="_blank"><img align="center" alt="Vidigal-GoogleCloud" height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
     <a href="https://azure.microsoft.com/pt-br/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://th.bing.com/th/id/R.07ca8cd025969f66c65611df5aabcf43?rik=E0aGesKhIOc3mg&pid=ImgRaw&r=0"></a>
-        <a href="https://www.oracle.com/br/cloud/" target="_blank"><img align="center" alt="Vidigal-AzureMicrosoft" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
+        <a href="https://www.oracle.com/br/cloud/" target="_blank"><img align="center" alt="Vidigal-Oracle" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
 <a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://contabo.com/assets/favicon.png"></a>
