@@ -170,7 +170,7 @@
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
   <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-LARAVEL" height="50" width="50" src="https://laravel.com/img/favicon/apple-touch-icon.png"></a>
      <a href="https://spring.io" target="_blank"><img align="center" alt="Vidigal-SPRING" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
-       <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png"></a>
+       <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://nextjs.org/favicon.ico"></a>
               <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
                  <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
 #
