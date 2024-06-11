@@ -54,7 +54,7 @@
 <br/>
 <details>
 
-  <summary><b>💻Information</b></summary>
+  <summary>💻<b>Information</b></summary>
   </br>
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.io/React-portfolio/) }
