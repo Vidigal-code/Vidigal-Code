@@ -201,6 +201,7 @@
 
   <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
   <a href="https://www.navicat.com/en" target="_blank"><img align="center" alt="Vidigal-Navicat" height="50" width="50" src="https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico"></a>
+  <a href="https://www.heidisql.com/" target="_blank"><img align="center" alt="Vidigal-Heidisql" height="50" width="50" src="https://th.bing.com/th?id=OSAAS.0CD582020C5740D7C7784E3D5403053C&w=72&h=72&c=17&rs=1&o=6&pid=5.1"></a>
   </div>
 
 
