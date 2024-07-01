@@ -94,7 +94,9 @@
  <br/>
 
 <p align="center">
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
+<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2" alt="GitRoll Profile Badge" style="width: 400px; height: auto;" />
+</a>
 </p>
 </div>
 
@@ -106,11 +108,7 @@
 
  <br/>
 
-<p align="center">
-<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2" alt="GitRoll Profile Badge" style="width: 400px; height: auto;" />
-</a>
-</p>
+
 
  <br/>
 <br/>
