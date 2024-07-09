@@ -90,6 +90,12 @@
 <img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/overview.svg" alt="Vidigal-code">  
 <img src="https://raw.githubusercontent.com/Vidigal-code/github-stats/master/generated/languages.svg" alt="Vidigal-code">
 </div>
+ <br/>
+
+<p align="center">
+ <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vidigal-code&theme=android-dark&hide_border=true" width = 400>
+</p>
+ <br/>
 
  <br/>
 
