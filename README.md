@@ -9,7 +9,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;Have+20+years%20old;I+live+in+São%20Paulo/Brazil;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 
 <p align="center">
