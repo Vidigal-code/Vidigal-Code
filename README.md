@@ -16,6 +16,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
 </p>
 
+<details>
+
 <h2 align="center">Kauan Vidigal ✅</h2>
 <br/>
 <br/>
@@ -52,7 +54,6 @@
 <br/>
 <br/>
 <br/>
-<details>
 
   <summary><b>💻Information</b></summary>
   </br>
@@ -65,7 +66,6 @@
   >
 - >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
   >
-</details>
 </p>
 
 <br/>
@@ -224,10 +224,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors)](https://git.io/typing-svg)
 
+
+
   <div align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> 
 <br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,0:2aa889&height=70&section=header"/>
+
+</details>
+
 
