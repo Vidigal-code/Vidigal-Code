@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Rect&amp;color=0d1117&amp;height=70&amp;section=header&amp;text=Vidigal-code&amp;animation=scaleIn&amp;fontSize=30&amp;fontColor=2aa889" width="100%">
 
-<div class="image-container">
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-bottom: 3px;">
         <img src="https://readme-typing-svg.herokuapp.com/?color=2aa889&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+I+am+Kauan+Vidigal;I+am+Developer+Full-Stack;Welcome+To+My+Profile!" alt="Typing SVG" />
 </div>
 
@@ -223,10 +223,9 @@
 ## 
 
   
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&amp;size=25¢er=true&amp;vCenter=true&amp;width=1000&amp;lines=Number+of+visitors)](https://git.io/typing-svg)
-
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-bottom: 3px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2aa889&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Number+of+visitors" alt="Typing SVG" />
+</div>
 
 
   <div align="center">
