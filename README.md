@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://vidigal-code.github.io/React-portfolio/">
-    <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/becc2a33-9531-44cb-85a1-5656bd68781c.png?raw=true">
+    <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/84481148-55bc-455b-ba5c-1fa57c1fd8a8.png?raw=true">
   </a>
 </p>
 
