@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://vidigal-code.github.io/React-portfolio/">
-    <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/84481148-55bc-455b-ba5c-1fa57c1fd8a8.png?raw=true">
+    <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/GIF_2.gif?raw=true">
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 
 <p align="right">
-  <img align="right" alt="Coding" width="340" height="320" src="https://i.gifer.com/origin/f7/f753421e72b10f0a4c47b97736781e7e.gif">
+  <img align="right" alt="Coding" width="340" height="320" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/GIF_1.gif?raw=true">
   <br/>
 </p>
 <br/>
