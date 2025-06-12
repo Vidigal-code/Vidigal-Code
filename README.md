@@ -225,8 +225,9 @@
   #
   ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Version+control%3A)](https://git.io/typing-svg)
 <a href="https://git-scm.com/downloads" target="_blank"><img align="center" alt="Vidigal-Git" height="50" width="50" src="https://git-scm.com/favicon.ico"></a>
-          <a href="https://gitlab.com/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"></a>
-                   <a href="https://github.com/Vidigal-code" target="_blank"><img align="center" alt="Vidigal-Git-hub" height="50" width="50" src="https://github.com/fluidicon.png"></a>
+<a href="https://gitlab.com/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"></a>
+<a href="https://bitbucket.org/" target="_blank"><img align="center" alt="Vidigal-GitLab" height="50" width="50" src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png"></a>
+<a href="https://github.com/Vidigal-code" target="_blank"><img align="center" alt="Vidigal-Git-hub" height="50" width="50" src="https://github.com/fluidicon.png"></a>
   ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Other%3A)](https://git.io/typing-svg)
 
   <a href="https://www.virtualbox.org/" target="_blank"><img align="center" alt="Vidigal-Virtualbox" height="50" width="50" src="https://www.virtualbox.org/favicon.ico"></a>
