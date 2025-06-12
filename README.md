@@ -191,6 +191,8 @@
        <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NESTJS" height="50" width="50" src="https://nextjs.org/favicon.ico"></a>
               <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
                  <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
+                                  <a href="https://nestjs.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://nestjs.com/favicon-32x32.42b683bd.png"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Software%3A)](https://git.io/typing-svg)
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"></a>
