@@ -145,6 +145,8 @@
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Backend+Development%3A)](https://git.io/typing-svg)
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"></a>
+<a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://kubernetes.io/icons/favicon-32.png"></a>
   <a href="https://www.nginx.com" target="_blank"><img align="center" alt="Vidigal-NGINX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
   <a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-ISS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png"></a>
     <a href="https://apache.org/" target="_blank"><img align="center" alt="Vidigal-Apache" height="50" width="50" src="https://apache.org/favicons/apple-touch-icon-57x57.png"></a>
@@ -179,6 +181,8 @@
   <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="Vidigal-Npm" height="50" width="50" src="https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"></a>
    <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
     <a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/e8a73ff26e5b1e3f20868111d80c5544-favicon.ico"></a>
+<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/icon/favicon-32x32.png"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Framework%3A)](https://git.io/typing-svg)
 <a href="https://www.electronjs.org" target="_blank"><img align="center" alt="Vidigal-AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
