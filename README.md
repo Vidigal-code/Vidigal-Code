@@ -141,7 +141,8 @@
    <a href="https://styled-components.com/" target="_blank"><img align="center" alt="Vidigal-Styled" height="50" width="50" src="https://styled-components.com/favicon.png"></a>
    <a href="https://sass-lang.com" target="_blank"><img align="center" alt="Vidigal-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
       <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Vidigal-Tailwind" height="50" width="50" src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3"></a>
-   
+         <a href="https://mui.com/material-ui/" target="_blank"><img align="center" alt="Vidigal-Tailwind" height="50" width="50" src="https://mui.com/static/favicon.ico"></a>
+
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Backend+Development%3A)](https://git.io/typing-svg)
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Vidigal-NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
@@ -159,6 +160,8 @@
   <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-br_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=CjwKCAjwvsqZBhAlEiwAqAHElXG1-Uv6dCvpM6kMz7DSUnVWFx9awiyNN7sfHCyHYnskHHr6am2ONxoCY78QAvD_BwE" target="_blank"><img align="center" alt="Vidigal-MONGODB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
     <a href="https://www.postgresql.org" target="_blank"><img align="center" alt="Vidigal-POSTRESQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
        <a href="https://mariadb.org/" target="_blank"><img align="center" alt="Vidigal-MariaSql" height="50" width="50" src="https://mariadb.org/wp-content/uploads/2019/02/cropped-mariadb_org_rgb_r_512-1-32x32.png"></a>
+       <a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank"><img align="center" alt="Vidigal-Oracle" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
+
 
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Remote%20Desktop%3A)](https://git.io/typing-svg)
@@ -174,6 +177,13 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
 <a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://eu5.contabostorage.com/70f581d527be490888d7d75d0e464ce9:ecom-cdn/favicon.ico"></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img align="center" alt="Vidigal-Cloudflare" height="50" width="50" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/53qCYhQbir5WtIU0VDWESo/954a48bfb17f429acf469e5f14345d83/unnamed-3.png"></a>
+#
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Test-Driven-Development%3A)](https://git.io/typing-svg)
+<a href="https://junit.org/junit5/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://junit.org/junit5/assets/img/junit5-logo.png"></a>
+ <a href="https://phpunit.de/index.html" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://phpunit.de/apple-touch-icon.png"></a>
+ <a href="https://docs.pytest.org/en/stable/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://docs.pytest.org/en/stable/_static/favicon.png"></a>
+ <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Vidigal-Yarn" height="50" width="50" src="https://jestjs.io/img/favicon/favicon.ico"></a>
 #
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Dependency+Management%3A)](https://git.io/typing-svg)
