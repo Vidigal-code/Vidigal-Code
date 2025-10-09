@@ -66,7 +66,7 @@
   >
 - >``💾Link to my projects`` : { [Projects](https://vidigal-code.github.io/React-portfolio/projects/?lang=en&theme=dark) }
   >
-- >``💪Certificates link`` : { [Certificates](https://vidigal-code.github.io/React-portfolio/#courses) }
+- >``💪Certificates link`` : { [Certificates](https://vidigal-code.github.io/React-portfolio/courses/?lang=en&theme=dark) }
   >
 - >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
   >
