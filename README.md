@@ -194,7 +194,7 @@
 <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="Vidigal-NPM" height="50" width="50" src="https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"></a>
 <a href="https://getcomposer.org/" target="_blank"><img align="center" alt="Vidigal-Composer" height="50" width="50" src="https://getcomposer.org/img/logo-composer-transparent5.png"></a>
 <a href="https://mvnrepository.com/" target="_blank"><img align="center" alt="Vidigal-Maven" height="50" width="50" src="https://mvnrepository.com/assets/images/e8a73ff26e5b1e3f20868111d80c5544-favicon.ico"></a>
-<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/icon/favicon-32x32.png"></a>
+<a href="https://gradle.org/" target="_blank"><img align="center" alt="Vidigal-Gradle" height="50" width="50" src="https://gradle.org/assets/icon/favicon.ico"></a>
 
 #
 
