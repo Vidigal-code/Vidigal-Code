@@ -147,7 +147,7 @@
 <a href="https://www.nginx.com" target="_blank"><img align="center" alt="Vidigal-NGINX" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Vidigal-Docker" height="50" width="50" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png"></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Vidigal-Kubernetes" height="50" width="50" src="https://kubernetes.io/icons/favicon-32.png"></a>
-<a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-IIS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png"></a>
+<a href="https://www.iis.net" target="_blank"><img align="center" alt="Vidigal-IIS" height="50" width="50" src="https://www.iis.net/favicon.ico"></a>
 <a href="https://apache.org/" target="_blank"><img align="center" alt="Vidigal-Apache" height="50" width="50" src="https://apache.org/favicons/apple-touch-icon-57x57.png"></a>
 <a href="https://tomcat.apache.org/" target="_blank"><img align="center" alt="Vidigal-Tomcat" height="50" width="50" src="https://tomcat.apache.org/res/images/tomcat.png"></a>
 <a href="https://www.apachefriends.org/download.html" target="_blank"><img align="center" alt="Vidigal-XAMPP" height="50" width="50" src="https://www.apachefriends.org/images/favicon-18f9bd42.png"></a>
@@ -220,18 +220,18 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Software+Tools%3A)](https://git.io/typing-svg)
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-Photoshop" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="center" alt="Vidigal-Photoshop" height="50" width="50" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Vidigal-Figma" height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
 <a href="https://www.coreldraw.com/en/" target="_blank"><img align="center" alt="Vidigal-CorelDRAW" height="50" width="50" src="https://www.coreldraw.com/static/cdgs/product_content/product-icons/cdgs/cdgs2021-icon-250x250.png"></a>
-<a href="https://www.vegascreativesoftware.com/us/" target="_blank"><img align="center" alt="Vidigal-VegasPro" height="50" width="50" src="https://www.vegascreativesoftware.com/fileadmin/fe/icons/live/favicon.svg"></a>
+<a href="https://www.vegascreativesoftware.com/us/" target="_blank"><img align="center" alt="Vidigal-VegasPro" height="50" width="50" src="https://www.vegascreativesoftware.com/favicon.ico"></a>
 <a href="https://www.techsmith.com/video-editor.html" target="_blank"><img align="center" alt="Vidigal-Camtasia" height="50" width="50" src="https://img.utdstc.com/icon/7b8/79e/7b879e1cb53d19b54976e1fbc88d77212e9e55935f092d2839e026a71a9360de:200"></a>
 
 #
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=IDEs%3A)](https://git.io/typing-svg)
 
-<a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Vidigal-VSCode" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a>
-<a href="https://www.jetbrains.com/idea/download/" target="_blank"><img align="center" alt="Vidigal-IntelliJ" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></a>
+<a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Vidigal-VSCode" height="50" width="50" src="https://code.visualstudio.com/assets/favicon.ico"></a>
+<a href="https://www.jetbrains.com/idea/download/" target="_blank"><img align="center" alt="Vidigal-IntelliJ" height="50" width="50" src="https://www.jetbrains.com/icon.svg?r=1234"></a>
 <a href="https://www.sublimetext.com/3" target="_blank"><img align="center" alt="Vidigal-SublimeText" height="50" width="50" src="https://www.sublimetext.com/favicon.ico"></a>
 <a href="https://eclipseide.org/" target="_blank"><img align="center" alt="Vidigal-Eclipse" height="50" width="50" src="https://eclipseide.org/favicon.ico"></a>
 
